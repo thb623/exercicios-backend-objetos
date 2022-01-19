@@ -4,7 +4,7 @@
 
 ## Separando jovens de adulto
 
-1. Dado a lista de usuários abaixo, separe os usuários que possui menos de 18 anos dos demais. Para isso, deverá criar duas novas constantes `jovens` e `adultos`. Todos os usuários menores de 18 anos devem ser inseridos na constante `jovens` e os demais na constante `adultos`.
+1. Dado a lista de usuários abaixo, separe os usuários que possuem menos de 18 anos dos demais. Para isso, você deverá criar duas novas constantes `jovens` e `adultos`. Todos os usuários menores de 18 anos devem ser inseridos na constante `jovens` e os demais na constante `adultos`.
 
 ```javascript
 const usuarios = [
