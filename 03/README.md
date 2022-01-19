@@ -4,7 +4,7 @@
 
 ## Mensagem de apresentação
 
-1. Dado o objeto `usuario` abaixo, monte a mensagem `Olá... Eu sou João e tenho 25 anos de idade. Sou programador e minha cor preferida é verde!`, passando dinamicamente as informações contida no objeto.
+1. Dado o objeto `usuario` abaixo, monte a mensagem `Olá... Eu sou João e tenho 25 anos de idade. Sou programador e minha cor preferida é verde!`, passando dinamicamente as informações contidas no objeto.
 
 ```javascript
 const usuario = {
