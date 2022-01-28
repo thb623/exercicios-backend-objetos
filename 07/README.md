@@ -9,7 +9,7 @@
 Obs.: a ordem deverá seguir a mesma existente.
 
 ```javascript
-const livro = [
+const livro = {
     nome: 'O poder do hábito',
     capitulos: [
         {
@@ -40,7 +40,7 @@ const livro = [
             nome: "A neorologia do livre-arbítrio",
         },
     ]
-]
+}
 ```
 
 Faça o teste com outros exemplos.
