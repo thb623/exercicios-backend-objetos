@@ -8,9 +8,9 @@
 
 a. Se a pessoa não tiver pets, a mensagem deve ser: `Sou João e não tenho pets`.
 
-b. Se a pessoa tiver apenas um pet, a mensagem deve ser: `Sou João e tenho 1 pet`.
+b. Se a pessoa tiver apenas um pet, a mensagem deve ser: `Sou Ana e tenho 2 pets`.
 
-c. Se a pessoa tiver mais de um pet, a mensagem deve ser: `Sou João e tenho 3 pets`.
+c. Se a pessoa tiver mais de um pet, a mensagem deve ser: `Sou Beatriz e tenho 1 pet`.
 
 ```javascript
 const usuarios = [
@@ -37,9 +37,19 @@ const usuarios = [
 ]
 ```
 
-Obs.: O nome da pessoa e a a qantidade de pets deve ser dinâmico, de acordo com as informações de cada objeto.
+Obs.: O nome da pessoa e a quantidade de pets deve ser dinâmico, de acordo com as informações de cada objeto.
 
 _Dica: a desestruturação pode facilitar a escrita do código, além de torná-lo mais legível._
+
+_Portanto, o resultado final para o exemplo acima, deverá ser como ilustrado abaixo:_
+
+```javascript
+`Sou João e não tenho pets`
+`Sou Ana e tenho 2 pets`
+`Sou Beatriz e tenho 1 pet`
+`Sou Carlos e tenho 3 pets`
+`Sou Antônio e tenho 1 pet`
+```
 
 Faça o teste com outros exemplos.
 

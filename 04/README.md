@@ -31,6 +31,38 @@ const usuarios = [
 ]
 ```
 
+_Lembre-se que podemos percorrer a lista, de modo, que para cada objeto percorrido será atribuída uma nova propriedade, portanto, o resultado final para o exemplo acima, deverá ser como ilustrado abaixo:_
+
+```javascript
+[
+    {
+        "nome": "João",
+        "idade": 25,
+        "maior_idade": true
+    },
+    {
+        "nome": "Ana",
+        "idade": 18,
+        "maior_idade": true
+    },
+    {
+        "nome": "Beatriz",
+        "idade": 15,
+        "maior_idade": false
+    },
+    {
+        "nome": "Carlos",
+        "idade": 16,
+        "maior_idade": false
+    },
+    {
+        "nome": "Antonio",
+        "idade": 32,
+        "maior_idade": true
+    }
+]
+```
+
 Faça o teste com outros exemplos.
 
 Faça commit do resultado.

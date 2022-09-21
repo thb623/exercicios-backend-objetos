@@ -29,6 +29,12 @@ const participantes = [
 ]
 ```
 
+_Lembre-se o array inicia na posição zero, porém, em uma fila iniciamos a contagem a partir do um. Portanto, o resultado final para o exemplo acima, deverá ser como ilustrado abaixo:_
+
+```javascript
+`Galera... O Carlos está na posição 10, corre lá!`
+```
+
 Faça o teste com outros exemplos.
 
 Faça commit do resultado.

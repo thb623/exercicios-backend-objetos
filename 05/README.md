@@ -35,6 +35,33 @@ const curso = {
     -   Identificador = 04
     -   Nome da aula = Arrays
 
+_Lembre-se que após adicionar elementos no array aulas, o resultado final para o exemplo acima, deverá ser como ilustrado abaixo:_
+
+```javascript
+{
+    id: 1234,
+    nome: "Lógica de programação",
+    aulas: [
+        {
+            identificador: 1,
+            nome_da_aula: "Introdução a programação"
+        },
+        {
+            identificador: 2,
+            nome_da_aula: "Variáveis"
+        },
+        {
+            identificador: 3,
+            nome_da_aula: "Condicionais"
+        },
+        {
+            identificador: 4,
+            nome_da_aula: "Arrays"
+        }
+    ],
+}
+```
+
 Faça o teste com outros exemplos.
 
 Faça commit do resultado.
