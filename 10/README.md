@@ -6,7 +6,7 @@
 
 1. A seguir, temos alguns produtos disponíveis a venda numa loja online e uma lista de clientes cadastrados. Adicione o produto ao carrinho do usuário, sempre que solicitado.
 
-O formato do item no carrinho deve serguir o seguinte padrão:
+O formato do item no carrinho deve seguir o seguinte padrão:
 
 ```javascript
 {
