@@ -2,7 +2,7 @@
 
 # Exercício 06
 
-## Separando jovens de adulto
+## Separando jovens de adultos
 
 1. Dado a lista de usuários abaixo, separe os usuários que possuem menos de 18 anos dos demais. Para isso, você deverá criar duas novas constantes `jovens` e `adultos`. Todos os usuários menores de 18 anos devem ser inseridos na constante `jovens` e os demais na constante `adultos`.
 
