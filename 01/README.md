@@ -25,7 +25,7 @@
 
     Obs.: a propriedade `endereco` do objeto do `usuario` deverá receber, como valor, a variável `endereco` criada anteriormente.
 
-_As informações dos valores de cada propriedade do objeto poderão ser de sua preferência_
+_As informações dos valores de cada propriedade do objeto poderão ser de sua preferência_.
 
 Faça o teste com outros exemplos.
 
