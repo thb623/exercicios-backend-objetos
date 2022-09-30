@@ -4,7 +4,7 @@
 
 ## Numerando capítulos de um livro
 
-1. Abaixo, temos a lista de capítulos do livro `O poder do hábito`. Sua tarefa é numerar em ordem crescente, cada capítulo do livro, adicionando uma propriedade `numero` em cada objeto da lista de capítulos.
+1. Abaixo, temos a lista de capítulos do livro `O poder do hábito`. Sua tarefa é numerar, **em ordem crescente**, cada capítulo do livro adicionando uma propriedade `numero` em cada objeto da lista de capítulos.
 
 Obs.: a ordem deverá seguir a mesma existente.
 
