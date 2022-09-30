@@ -4,7 +4,7 @@
 
 ## Meus pets
 
-1. Abaixo, temos uma lista de pessoas, onde cada pessoa, possui uma lista com um, vários ou nenhum pet. Percorra cada pessoa da lista e imprima uma mensagem de acordo com as condições a seguir.
+1. Abaixo, temos uma lista de pessoas. Cada pessoa possui uma lista com **um**, **vários** ou **nenhum** pet. Percorra cada pessoa da lista e imprima uma mensagem de acordo com as condições a seguir:
 
 a. Se a pessoa não tiver pets, a mensagem deve ser: `Sou João e não tenho pets`.
 
@@ -41,7 +41,7 @@ Obs.: O nome da pessoa e a quantidade de pets deve ser dinâmico, de acordo com 
 
 _Dica: a desestruturação pode facilitar a escrita do código, além de torná-lo mais legível._
 
-_Portanto, o resultado final para o exemplo acima, deverá ser como ilustrado abaixo:_
+_Portanto, o resultado final para o exemplo acima deverá ser como ilustrado abaixo:_
 
 ```javascript
 `Sou João e não tenho pets`
