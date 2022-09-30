@@ -4,7 +4,7 @@
 
 ## Encontrando Carlos na multidão
 
-1. Abaixo, temos uma lista de pessoas e essa lista representa os participantes de uma festa. O `Carlos` se perdeu dos seus amigos e sua tarefa é encontrá-lo. O lugar onde o Carlos se encontra é representado pela posição do objeto que contém seu nome na lista. Quando encontrar o carlos, caso ele esteja na posição `123`, deverá imprimir `Galera... O Carlos está na posição 123, corre lá!`.
+1. Abaixo, temos uma lista de pessoas que representa os participantes de uma festa. O `Carlos` se perdeu dos seus amigos e sua tarefa é encontrá-lo. O lugar onde o Carlos se encontra é representado pela posição do objeto que contém seu nome na lista. Quando encontrar o Carlos, caso ele esteja na posição `123`, deverá imprimir `Galera... O Carlos está na posição 123, corre lá!`.
 
 ```javascript
 const participantes = [
