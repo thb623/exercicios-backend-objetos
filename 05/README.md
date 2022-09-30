@@ -35,7 +35,7 @@ const curso = {
     -   Identificador = 04
     -   Nome da aula = Arrays
 
-_Lembre-se que após adicionar elementos no array aulas, o resultado final para o exemplo acima, deverá ser como ilustrado abaixo:_
+_Lembre-se que após adicionar elementos no array `aulas, o resultado final para o exemplo acima deverá ser como ilustrado abaixo:_
 
 ```javascript
 {
